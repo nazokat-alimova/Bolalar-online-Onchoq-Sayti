@@ -73,6 +73,10 @@ a {
   padding-top: 166px;
   background-image: url(./IMAGES/IMAGE.png);
 }
+.one {
+  border: none;
+  background-color: transparent;
+}
 .log {
   padding-bottom: 55px;
   padding-top: 55px;
